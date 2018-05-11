@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Bikespace
 tagline: Heading West for the Summer
 description: Personal blog of nkel17
@@ -14,4 +14,3 @@ Bikespace is the personal blog of nkel17 for their summer 2018 bike trip. Cometh
 
 - [test](pages/test.md)
 
----
