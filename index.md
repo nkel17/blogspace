@@ -1,16 +1,15 @@
 ---
-layout: default
-title: Bikespace
-tagline: Heading West for the Summer
+layout: page
+title: travelspace
 description: Personal blog of nkel17
 ---
-# Bikespace
+# travelspace
 
-## What is Bikespace?
+## What is travelspace?
 
-Bikespace is the personal blog of nkel17 for their summer 2018 bike trip. Comethru!
+travelspace is a not-so-cleverly titled blog run by nkel17 to document their various escapades.
 
 ## Blog Posts
 
-- [test](pages/test.md)
+- [Boston to New York City](pages/bostonToNYC.md)
 
