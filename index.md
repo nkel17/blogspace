@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: travelspace
 tagline: documenting various travels
 description: Personal blog of nkel17
