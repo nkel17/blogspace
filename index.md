@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Bikespace
-tagline: Heading West for the Summer
+title: travelspace
 description: Personal blog of nkel17
 ---
 
