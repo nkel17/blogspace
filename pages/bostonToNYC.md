@@ -4,7 +4,7 @@ title: Touring the East Coast Greenway (well, part of it!)
 description: May and June of 2018
 ---
 
-![mapped route](https://www.scribblemaps.com/api/maps/images/450/450/bostonToNYC.png)
+<iframe width="550" height="400" frameborder="0" src="https://widgets.scribblemaps.com/sm/?d&z&l&gc&af&mc&lat=40.74686681162487&lng=-74.02811050415039&vz=12&type=custom_style&ti&s&width=550&height=400&id=bostonToNYC" style="border:0; max-width: 100%;" allowfullscreen allow="geolocation"></iframe>
 
 Distance cycled: 256 mi. Objective: Boston, MA to New York City, NY
 
