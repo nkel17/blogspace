@@ -49,4 +49,4 @@ All in all, I am so glad I went on this trip, and I can't wait to go on more! I 
 ![Central Park](../img/bncentralpark.jpg)
 
 Bonus: found the apartment from Friends!
-![Friends Apartment](../img/bnfriends.jpg)
+![Friends Apartment](../img/bnfriendsapt.jpg)
