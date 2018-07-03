@@ -11,5 +11,5 @@ travelspace is a not-so-cleverly titled blog run by nkel17 to document their var
 
 ## Blog Posts
 
-- [Boston to New York City](pages/bostonToNYC.md)
+- [Biking from Boston to New York City](pages/bostonToNYC.md)
 
