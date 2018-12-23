@@ -13,4 +13,5 @@ about anything in particular.
 
 ## Blog Posts
 
+- [Campfire Rule](pages/campfirerule.md)
 - [Boston to New York City](pages/bostonToNYC.md)
