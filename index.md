@@ -1,15 +1,21 @@
 ---
 layout: default
+<<<<<<< HEAD
 title: travelspace
+=======
+title: blogspace
+tagline: I write stuff here from time to time
+>>>>>>> 42427a03877c434f4e2606d55babfafde06e6271
 description: Personal blog of nkel17
 ---
-# travelspace
+# blogspace
 
-## What is travelspace?
+## What is blogspace?
 
-travelspace is a not-so-cleverly titled blog run by nkel17 to document their various escapades.
+blogspace is a not-so-cleverly titled page run by nkel17. It's not really
+about anything in particular.
 
 ## Blog Posts
 
-- [Biking from Boston to New York City](pages/bostonToNYC.md)
-
+- [Campfire Rule](pages/campfirerule.md)
+- [Boston to New York City](pages/bostonToNYC.md)
