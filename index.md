@@ -1,16 +1,16 @@
 ---
 layout: default
-title: travelspace
-tagline: documenting various travels
+title: blogspace
+tagline: I write stuff here from time to time
 description: Personal blog of nkel17
 ---
-# travelspace
+# blogspace
 
-## What is travelspace?
+## What is blogspace?
 
-travelspace is a not-so-cleverly titled blog run by nkel17 to document their various escapades.
+blogspace is a not-so-cleverly titled page run by nkel17. It's not really
+about anything in particular.
 
 ## Blog Posts
 
 - [Boston to New York City](pages/bostonToNYC.md)
-
