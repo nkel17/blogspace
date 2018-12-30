@@ -1,11 +1,7 @@
 ---
 layout: default
-<<<<<<< HEAD
-title: travelspace
-=======
 title: blogspace
 tagline: I write stuff here from time to time
->>>>>>> 42427a03877c434f4e2606d55babfafde06e6271
 description: Personal blog of nkel17
 ---
 # blogspace
@@ -17,5 +13,6 @@ about anything in particular.
 
 ## Blog Posts
 
+- [Fail fast](pages/failfast.md)
 - [Campfire Rule](pages/campfirerule.md)
 - [Boston to New York City](pages/bostonToNYC.md)
